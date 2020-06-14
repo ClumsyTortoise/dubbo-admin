@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dubbo Admin
 
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/apache/dubbo-admin/CI)
@@ -61,3 +62,6 @@ Once deployed, you can check http://localhost:8080/swagger-ui.html to check all 
 
 Apache Dubbo admin is under the Apache 2.0 license, Version 2.0.
 See [LICENSE](https://github.com/apache/dubbo-admin/blob/develop/LICENSE) for full license text.
+=======
+# dubbo-admin
+>>>>>>> 45675529f80ead32ff5321fbc50d4c897a173cf1
